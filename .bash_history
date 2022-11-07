@@ -329,3 +329,21 @@ cd
 sudo apt update
 git log
 cd Exam
+git remote -v
+git init
+git add
+git add .
+git status
+git cmmit -m'update repo'
+git commit -m'update repo'
+git remote add origin'https://github.com/Marclint/Altschool-cloud-assignment.git'
+git push -u origin master
+git int
+git init
+git add .
+git status
+git commit -m 'update repo'
+git commit
+git remote add origin 'git@github.com:Marclint/Altschool-cloud-assignment.git'
+git push -u origin master
+/var/www ls -al
