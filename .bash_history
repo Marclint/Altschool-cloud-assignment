@@ -251,3 +251,81 @@ ls Exercise-2
 cd
 ls
 ls Exam
+ls Exam/Altschool-cloud-assignment/
+exam-project
+ls exam-project
+ls Exam/Altschool-cloud-assignment/exam-project
+ls
+mv ansible-cfg Exam/Altschool-cloud-assignment/exam-project
+sudo mv ansible-cfg Exam/Altschool-cloud-assignment/exam-project
+sudo mv hosts Exam/Altschool-cloud-assignment/exam-project
+sudo mv pgsql Exam/Altschool-cloud-assignment/exam-project
+sudo mv roles Exam/Altschool-cloud-assignment/exam-project
+sudo mv vars Exam/Altschool-cloud-assignment/exam-project
+ls
+sudo mv deploy.yml Exam/Altschool-cloud-assignment/exam-project
+ls altschool-cloud-exercises/
+cd Exam/Altschool-cloud-assignment/exam-project/
+ls
+cd pgsql
+ls
+cd ..
+sudo nano deploy.yml
+ls
+sudo nano ansible-cfg
+sudo hosts
+sudo nano hosts
+cd hosts
+cd host
+cd roles
+ls
+cd deploy
+ls
+sudo nano task/main.yml
+cd tasks
+ls
+sudo nano main.yml
+ls
+cd ..
+cd templates/
+nano .env.j2
+cd ..
+ls
+cat /etc/hosts
+cd ../..
+cd ..
+ls
+gid add.
+git add.
+git add .
+ls
+git status
+git --version
+git config --global safe.directory '*
+git config --global safe.directory '*git config --global safe.directory '*'
+git config --global safe.directory '*'
+git add
+sudo git add .
+sudo git commit -m "update repo"
+git config --global user.email "e.marclint@gmail.com"
+git config --global user.name "Eniye Marclint Ebiede"
+sudo git commit -m "update repo"
+git log commit
+git log
+git config --list
+sudo git commit -m "update repo"
+git log
+git confiq --global username
+git config --global username
+git config --global user.name "Eniye Marclint Ebiede"
+git config --global user.email e.marclint@gmail.com
+git commit
+git commit -m "update repo"
+sudo git commit -m "update repo"
+ls
+cd ..
+sudo git commit
+cd
+sudo apt update
+git log
+cd Exam
