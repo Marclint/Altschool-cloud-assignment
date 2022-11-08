@@ -347,3 +347,25 @@ git commit
 git remote add origin 'git@github.com:Marclint/Altschool-cloud-assignment.git'
 git push -u origin master
 /var/www ls -al
+restart Apache
+chmod -R777 /var/www/your_project-pat/storage
+restart apache2
+sudo nano restart apache2
+/html/laravel
+systemctl restart apache2
+git init
+git clone https://github.com/Marclint/Altschool-cloud-assignment.git
+git add -A
+git commit
+git push
+git push --set-upstream origin master
+sudo nano clone
+cd
+ls
+Exam
+git Exam
+sudo nane Exam
+git init
+git commit -u -f'https://github.com/Marclint/Altschool-cloud-assignment.git'
+git push Exam
+git push origin main
