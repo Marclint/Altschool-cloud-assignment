@@ -1,0 +1,13 @@
+- name: deploy
+  become: true
+  hosts: slave
+  roles:
+    - setup
+    - apache2
+    - php
+    - composer
+    - mysql
+      #    - geerlingguy.mysql
+    - pgsql
+    - deploy
+    
