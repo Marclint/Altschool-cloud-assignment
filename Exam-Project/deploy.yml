@@ -7,7 +7,6 @@
     - php
     - composer
     - mysql
-      #    - geerlingguy.mysql
     - pgsql
     - deploy
     
